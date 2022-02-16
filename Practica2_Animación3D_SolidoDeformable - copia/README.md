@@ -1,12 +1,12 @@
 ﻿
 
-**García Sierra**
+**Álvaro García Sierra**
 
 **Práctica Tela**
 
 **Animación 3D**
 
-**y Juan Carlos**
+**Universidad Rey Juan Carlos**
 
 () crea los
 
@@ -121,6 +121,9 @@ Todos los parámetros son modificables, pero puede que algunos cambios en estos 
 estables para la simulación.
 
 Los parámetros por defecto (recomendados) son los siguientes:
+
+![CapturaTRASH](https://user-images.githubusercontent.com/72804203/154311380-bb42bb4e-fa25-47a1-8674-db91c9ebeb7c.JPG)
+
 
 Si el objeto se cae, eliminar el componente Fixer y volverlo a asignar.
 
