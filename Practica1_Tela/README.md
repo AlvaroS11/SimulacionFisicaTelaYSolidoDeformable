@@ -1,16 +1,19 @@
 ﻿
 
-**García Sierra**
+**Álvaro García Sierra**
 
 **Práctica Tela**
 
 **Animación 3D**
 
-**y Juan Carlos**
+**Universidad Rey Juan Carlos**
 
-s y los
 
-la función
+**-MassSpringCloth:**
+
+Este Script es el principal, usando las otras clases crea los nodos y los
+
+muelles, los ordena y elige si son de tracción o de flexión en la función Start(). En la función 
 
 FixedUpdate() decide si calcularemos las físicas mediante Euler Explícito u Implícito y llama a
 
@@ -108,23 +111,5 @@ estables para la simulación.
 
 Los parámetros por defecto (recomendados) son los siguientes:
 
-parar la ejecución de
-
-plementación,
-
-odos
-
-s tracción
-
-s flexión
-
-nto nodos
-
-nto rotación
-
-nto deformación
-
-viento
-
-fricción del viento.
+![trash2](https://user-images.githubusercontent.com/72804203/154312318-5fc6f95f-f928-4008-9722-bac10b8010b7.JPG)
 
